@@ -8,4 +8,16 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+
+    // testing oNe
+<<<<<<< HEAD
+
+    // two commit
+
+    //testing Two
+
+=======
+    // testing Two
+    // testing Three
+>>>>>>> c871d2f (Three commit)
 }
