@@ -10,5 +10,14 @@ class MainActivity : AppCompatActivity() {
     }
 
     // testing oNe
+<<<<<<< HEAD
+
     // two commit
+
+    //testing Two
+
+=======
+    // testing Two
+    // testing Three
+>>>>>>> c871d2f (Three commit)
 }
